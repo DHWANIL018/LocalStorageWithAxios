@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "17e2",
+      "Username": "Jaimin Prjapati Don",
+      "Email": "sandeep20577@gmail.com",
+      "MobileNo": "9773038298"
+    },
+    {
+      "id": "9169",
+      "Username": "Jigar Thakor Bhai",
+      "Email": "jigar@gmail.com",
+      "MobileNo": "8756295320"
+    },
+    {
+      "id": "6f07",
+      "Username": "Dhwanil ",
+      "Email": "pradhwanil@gmail.comn",
+      "MobileNo": "9773038298"
+    }
+  ],
+  "Products": [
+    {
+      "ProductName": "Xerox-Sheet",
+      "id": "5944"
+    }
+  ]
+}
