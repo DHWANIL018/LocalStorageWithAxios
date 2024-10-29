@@ -1,1 +1,1 @@
-CRUD WITH API AND LOCAL STORAGE
+All React Operations
