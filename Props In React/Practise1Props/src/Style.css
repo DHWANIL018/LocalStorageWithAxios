@@ -1,0 +1,48 @@
+/* Shree Ganeshay namah  */
+
+/* Service Section  */
+
+.service_Section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.service_Section .Service_Text{
+    text-align: center;
+}
+.size img{
+     /* Adjust size as needed */
+
+     /* Make the image circular if needed */
+    
+
+}
+.good{
+    padding: 0px 20px;
+}
+.card-body {
+    text-align: left;
+}
+.card-title{
+    font-size: 1rem;
+}
+.card-body h5{
+     /* For Text - Ellips  */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 1rem;
+}
+/* Service Section  */
+
+
+@media only screen and (max-width: 768px) {
+    body {
+      background-color: lightblue;
+    }
+
+    .size img{
+        height: 400px;
+        
+    }
+  }
